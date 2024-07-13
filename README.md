@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+First you should create an new app in VS code  "npx create-react-app drone"
+Then I have installed one package "npm install react-leaflet leaflet"
+After this start the React with "npm start"
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
