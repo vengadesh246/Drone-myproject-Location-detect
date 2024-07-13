@@ -48,6 +48,16 @@
   color: white;
 }
 
+body.light-mode {
+  background-color: white;
+  color: black;
+}
+
+body.dark-mode {
+  background-color: black;
+  color: white;
+}
+
 .map-container {
   height: 500px;
   width: 100%;
